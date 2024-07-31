@@ -1,3 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/rnpk4wj6gmkwi2uh?svg=true)](https://ci.appveyor.com/project/Pletinkaks/ahj-events)
+![CI](https://github.com/Pletinkaks/ahj-events/actions/workflows/web.yml/badge.svg)
 
 ДЗ https://pletinkaks.github.io/ahj-events/
